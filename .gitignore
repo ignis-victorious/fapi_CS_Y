@@ -248,3 +248,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml__pycache__/
+__pycache__/
