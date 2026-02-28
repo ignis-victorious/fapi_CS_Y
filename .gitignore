@@ -3,6 +3,7 @@
 .mypy_cache
 .vscode
 __pycache__/
+ __pycache__/main.cpython-314.pyc
 *.pyc
 .pytest_cache
 htmlcov
