@@ -32,6 +32,7 @@ archive.zip
 .DS_Store
 
 .codspeeds
+*.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
