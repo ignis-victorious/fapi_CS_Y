@@ -20,4 +20,11 @@ posts: list[dict[str, int | str]] = [
         "content": "Python is a great language for web development, and FastAPI makes it even better",
         "date_posted": "April 21, 2025",
     },
+    {
+        "id": 3,
+        "author": "Juju Lin Tao",
+        "title": "Python for Those Whin the Knowing",
+        "content": "Deep though on a modern language",
+        "date_posted": "January 1, 2026",
+    },
 ]

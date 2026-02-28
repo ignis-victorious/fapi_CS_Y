@@ -4,6 +4,7 @@ git rm -r --cached "**/*__pycache__*"
 .mypy_cache
 .vscode
 __pycache__/
+ __pycache__/main.cpython-314.pyc
 *.pyc
 *.pyc
 .pytest_cache
@@ -33,6 +34,7 @@ archive.zip
 .DS_Store
 
 .codspeeds
+*.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
